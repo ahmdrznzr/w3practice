@@ -1,5 +1,5 @@
-#This is a open project#
-In order to contribute to this project you just need to contribute to it.
-**Do not bother yourself, This is just a test**
+<h1>This is an open project</h1>
+To contribute to this project you just need to contribute to it.
+<strong>Do not bother yourself, this is just a test.</strong>
 
-If you do not want ~~it is Ok~~ do not bother.
+If you do not want <em>it is OK</em> do not bother.
