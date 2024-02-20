@@ -12,12 +12,22 @@ menu {
     padding-inline-start: 40px;
   }
 
-h1 {
+#h001 {
+    font-family: "Roboto";
+    font-size:30pt;
+    font-weight:400;
+    font-style:normal;
     color: navy;
     margin-left: 20px;
+    align-items: center;
+    text-shadow: 0.3em 0.3em;
+
   }
 
   img {
     width:50%;
     max-width:960px;
+    align-items: center;
   }
+
+
